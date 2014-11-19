@@ -23,6 +23,8 @@ For the straws you're going to need a lot. I used these ones from Amazon:
 
 http://www.amazon.com/gp/product/B00N9GZH4Q/ref=oh_aui_detailpage_o02_s00?ie=UTF8&psc=1
 
+Whatever straws you get, make sure that you measure the inner diameter with a caliper. You're going to want them to fit snug on each hub. What I did was get straws, and then go into SketchUp and scale the hub models. I exported to STL and did a test print for fit. Once I got that right I printed them in large quantities. You'll want to spot check as you go along. Make sure you use a fresh straw because the ends get flared if you use them over and over. I kept one test straw and just kept cutting the end off each time I used it.
+
 You're going to need to cut them all to length, and for that I made a handy calculator:
 
 https://docs.google.com/spreadsheets/d/13n80qJXVHlDCgf4QExXaKmUap6fjilLx6qZfzl5wZSU/edit?usp=sharing
